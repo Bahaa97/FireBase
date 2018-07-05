@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "282887809725",
+    "firebase_url": "https://senior-b5fd5.firebaseio.com",
+    "project_id": "senior-b5fd5",
+    "storage_bucket": "senior-b5fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282887809725:android:ee7811ba0241b3e4",
+        "android_client_info": {
+          "package_name": "com.task.senior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282887809725-gda2erbju8e588p7ka01am7irqt54hri.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "282887809725-gda2erbju8e588p7ka01am7irqt54hri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6L2F5RJBsA-IJa_YCNUq3hyHhO6RaEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
